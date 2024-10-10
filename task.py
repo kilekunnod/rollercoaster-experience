@@ -1,5 +1,5 @@
 print("Welcome to the rollercoaster ride! We're happy to have you :)")
-height = int(input("What is your height in cm? For security reasons"))
+height = int(input("What is your height in cm? For safety reasons"))
 bill = 0
 
 if height >= 120:
